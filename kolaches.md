@@ -4,7 +4,7 @@
 > **NOTE** This recipe has an overnight rise! 
 
 
-From [Bacon, Butter, Cheese, & Garlic](http://baconbuttercheesegarlic.blogspot.com/2014/03/sausage-jalapeno-kolaches.html) and [kitchenDebug](http://kitchendebug.com/Kolache-Trial/).
+Inspired by [Bacon, Butter, Cheese, & Garlic](http://baconbuttercheesegarlic.blogspot.com/2014/03/sausage-jalapeno-kolaches.html) and [kitchenDebug](http://kitchendebug.com/Kolache-Trial/).
 
 ## Ingredients
 
@@ -45,3 +45,4 @@ Most recipes suggest greasing the bowl, but I'm concerned that has impacted our 
 
 These can be frozen! We usually thaw in the fridge overnight and warm for ~8 min in the toaster oven on reheat (350F).
 
+This can yield about 20-30 kolaches.
