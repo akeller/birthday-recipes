@@ -19,3 +19,4 @@ Give credit where credit is due - link to the inspiring recipe(s)!
 ## Contributors
 
 [Amara Graham](https://twitter.com/MissAmaraKay)
+[Tracy Holmes](https://twitter.com/tracypholmes)
