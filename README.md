@@ -10,6 +10,12 @@ Do you have a signature dish? Do you have a favorite recipe? Maybe something you
 
 If you can see this, you are eligible for submitting a PR to this repo. You don't even have to be my friend, acquaintence, or coworker. Feel free to send a birthday wish in the PR.
 
+Use the [TEMPLATE](template.md) to write your recipe and add your name to the Contributors list in the README. 
+
 Please do not post your family's secret recipe. This is the internet. I don't want anyone's grandparent or auntie or crazy uncle coming for me.
 
 Give credit where credit is due - link to the inspiring recipe(s)!
+
+## Contributors
+
+[Amara Graham](https://twitter.com/MissAmaraKay)
