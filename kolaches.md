@@ -33,16 +33,16 @@ Inspired by [Bacon, Butter, Cheese, & Garlic](http://baconbuttercheesegarlic.blo
 **Day 2**
 
 7. Remove dough from fridge. Allow dough to warm until dough is not cold to the touch.
-8. Pre-heat oven to 350F.
+8. Preheat oven to 350F.
 9. Roll out to even thickness (1/2 inch or smaller). Cut into equal parts.
 10. Place cheese, sausage (2ish Lil Smokies), and jalapeños on dough and pull sides together. Create seam along the bottom. 
 11. Brush egg wash (add a little water to thin egg) on each kolache.
-12. Bake at 350F for about 20-25 minutes or until slightly browned.
+12. Bake for about 20-25 minutes or until slightly browned.
 
 ## Comments
 
 Most recipes suggest greasing the bowl, but I'm concerned that has impacted our seam seals in previous attempts. 
 
-These can be frozen! We usually thaw in the fridge overnight and warm for ~8 min in the toaster oven on reheat (350F).
+These can be frozen after baking! We usually thaw in the fridge overnight and warm for ~8 min in the toaster oven on reheat (350F).
 
 This can yield about 20-30 kolaches.
