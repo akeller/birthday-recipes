@@ -7,13 +7,12 @@ Makes 2 dozen cookies · Total time: 30 minutes · Active time: 15 minutes
 
 [Recipe by Isa Chandra Moskowitz.](https://www.theppk.com/)
 
-## Ingredients
-
-Recipe notes
+## Recipe Note
 * I simply use a fork to mix most of the cookie recipes in this book. True, it takes a little more elbow grease and time to beat the oils and sugars adequately, but for me it’s somehow worth it not to have to break out the hand mixer. If you don’t see the logic in this (because there really isn’t any) then feel free to use your hand mixer!
 * I also use a cookie disher, which is a small ice cream scooper. For years I relied on nothing but a tablespoon and my eyeballs to make sure my cookies were the same size, so you can do that, too.
-* Make sure that your coconut oil is at room temperature. It shouldn’t be clear and melted, just somewhat creamy without any large lumps.?
+* Make sure that your coconut oil is at room temperature. It shouldn’t be clear and melted, just somewhat creamy without any large lumps.
 
+## Ingredients
 - 1/2 cup refined coconut oil, softened
 - 2 tablespoons lightly packed, fresh rosemary, chopped
 - 1/4 cup granulated sugar
@@ -26,9 +25,7 @@ Recipe notes
 - 1/2 teaspoon baking soda
 - 1/2 cup chocolate semisweet chips
 
-
 ## Directions
-
 1. Preheat oven to 350°F. Lightly grease two large baking sheets.
 
 2. In a large mixing bowl, use a fork to beat together the coconut oil and rosemary, until relatively smooth. Add the sugar and beat for about a minute.
@@ -44,5 +41,3 @@ Recipe notes
 
 ## Comments
 I make these cookies around Christmas every year and they have become my "signature" cookie. Enjoy!!
-
-Anything else?
