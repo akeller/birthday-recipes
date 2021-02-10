@@ -7,7 +7,7 @@ Makes 2 dozen cookies · Total time: 30 minutes · Active time: 15 minutes
 
 [Recipe by Isa Chandra Moskowitz.](https://www.theppk.com/)
 
-## Recipe Note
+## Recipe Notes
 * I simply use a fork to mix most of the cookie recipes in this book. True, it takes a little more elbow grease and time to beat the oils and sugars adequately, but for me it’s somehow worth it not to have to break out the hand mixer. If you don’t see the logic in this (because there really isn’t any) then feel free to use your hand mixer!
 * I also use a cookie disher, which is a small ice cream scooper. For years I relied on nothing but a tablespoon and my eyeballs to make sure my cookies were the same size, so you can do that, too.
 * Make sure that your coconut oil is at room temperature. It shouldn’t be clear and melted, just somewhat creamy without any large lumps.
