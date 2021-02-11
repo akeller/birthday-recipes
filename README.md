@@ -21,3 +21,4 @@ Give credit where credit is due - link to the inspiring recipe(s)!
 * [Amara Graham](https://twitter.com/MissAmaraKay)
 * [Tracy Holmes](https://twitter.com/tracypholmes)
 * [Mia Moore](https://twitter.com/xoMiaMoore)
+* [Rin Oliver](https://twitter.com/kiran_oliver)
