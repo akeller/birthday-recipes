@@ -25,3 +25,4 @@ Give credit where credit is due - link to the inspiring recipe(s)!
 * [Andrew Brown](https://twitter.com/andrewbrown)
 * [Sam Couch](https://twitter.com/samuelcouch)
 * [Nele Uhlemann](https://twitter.com/nele_lea)
+* [Nic Fitzgerald](https://twitter.com/nicfitzgerald_)
